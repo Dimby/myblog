@@ -7,14 +7,14 @@ const useStyles = createUseStyles((theme => ({
 		display: 'inline-block'
 	},
 	typo1: {
-		fontSize: 70,
-		lineHeight: '66px',
+		fontSize: 60,
+		lineHeight: '55px',
 	},
 	typo2: {
 		fontSize: 40,
 	},
 	typo3: {
-		fontSize: 20,
+		fontSize: 15,
 	},
 	typo4: {
 		fontSize: 13,

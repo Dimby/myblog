@@ -3,12 +3,19 @@ const DARK = {
 }
 
 const GREEN = {
+    450: '#D8DB2F',
     500: '#B3B714'
+}
+
+const GREY = {
+    450: '#F0F0F0',
+    500: '#DADADA' // hover
 }
 
 export const DEFAULT = {
     color: {
         primary: DARK,
-        secondary: GREEN
+        secondary: GREEN,
+        grey: GREY
     }
 }

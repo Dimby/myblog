@@ -16,6 +16,7 @@ export const DEFAULT = {
     color: {
         primary: DARK,
         secondary: GREEN,
-        grey: GREY
+        grey: GREY,
+        green: GREEN
     }
 }
